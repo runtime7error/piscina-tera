@@ -15,9 +15,9 @@
     </ul>
 
     <div id="tab-contents">
-      <div id="first" class="p-4 dark:text-white">First tab</div>
-      <div id="second" class="hidden p-4 dark:text-white">Second tab</div>
-      <div id="third" class="hidden p-4 dark:text-white">Third tab</div>
+      <div id="first" class="p-4 text-white">First tab</div>
+      <div id="second" class="hidden p-4 text-white">Second tab</div>
+      <div id="third" class="hidden p-4 text-white">Third tab</div>
     </div>
   </div>
 </template>
