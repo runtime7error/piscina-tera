@@ -2,9 +2,9 @@
   <div
     class="backgroundCentralDiv flex items-center justify-center h-screen mb-12 bg-fixed bg-center bg-cover self-center"
   >
-    <div>
-      <div class="text-center text-white text-2xl bg-[#6F9CEB] rounded-lg bg-opacity-50 backdrop-filter backdrop-blur-lg mx-20 sm:mx-40 lg:mx-72">
-        <p class="mr-10 ml-10">
+    <div class="-mt-48">
+      <div class="text-center text-[#ECF0F1] text-2xl rounded-lg mx-20 sm:mx-40 lg:mx-72" style="border-radius: 100%">
+        <p class="mr-10 ml-10 backdropbackdrop-blur-xl" style="text-shadow: 2px 2px 7px #000000">
           Tera Privado com PING Brasileiro! Tenha o melhor ping para jogar com
           todas as classes do jeito que você nunca jogou!
         </p>
